@@ -55,6 +55,7 @@ We encourage all developers to contribute ideas, report bugs, and share improvem
 
 - Add the bot to Database Channel with all permission
 - Add bot to ForceSub channel as Admin with Invite Users via Link Permission if you enabled ForceSub 
+https://dashboard.heroku.com/new-app?template=https://github.com/rahulzxxm/File-Sharing-Bot
 
 ##
 ### Installation
